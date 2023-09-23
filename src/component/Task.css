@@ -1,0 +1,9 @@
+/* Add this CSS to your CSS file */
+.red-icon {
+    color: red; /* Red color for not completed tasks */
+  }
+  
+  .green-icon {
+    color: green; /* Green color for completed tasks */
+  }
+  
