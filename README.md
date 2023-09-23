@@ -31,4 +31,8 @@ To delete a task, click the "Delete" button.
 
 To mark a task as complete, click the checkbox icon.
 
+<<<<<<< HEAD
 You can filter tasks by All, Pending, or Completed using the radio buttons.
+=======
+You can filter tasks by All, Pending, or Completed using the radio buttons.
+>>>>>>> 766fa6ee9865b74137f73ba93f0d005947a0717d
